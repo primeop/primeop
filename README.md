@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cloud Security + Offensive Engineering</b><br>
-  eJPT | OSCP Track | DevSecOps| SIEM |  MS Cybersecurity @ USC
+  eJPT | OSCP Track | DevSecOps | SIEM |  MS Cybersecurity @ USC
 </p>
 
 <p align="center">
@@ -45,10 +45,13 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I’m Kamalesh — a passionate cybersecurity engineer blending **cloud defense** with **offensive techniques**.  
-I thrive at the intersection of **DevSecOps**, **cloud infra**, and **hands-on pentesting**.
+Cybersecurity Graduate Student | Cloud Security + Offensive Engineering
 
-Currently, I’m a **Research Assistant at USC**, exploring how satellites can be secured using cutting-edge cyber strategies — including **Zero Trust in space** 🚀.
+I’m currently pursuing my M.S. in Cybersecurity at the University of Southern California (USC), specializing in cloud security and offensive engineering. At Keck Medicine of USC, I serve as an Information Security Intern, where I design scalable AWS security architectures, automate incident response, and enforce multi-cloud compliance (HIPAA, HITRUST, FedRAMP).
+
+Previously, I spent 2+ years as a Cloud Engineer at Oracle, leading secure cloud migrations, DevSecOps integration, and IAM implementations for enterprise clients across JAPAC.
+
+Outside of work, I actively participate in CTFs, adversary emulation, and exploit development — blending both red and blue team skills to strengthen system defenses.
 
 ---
 
@@ -64,7 +67,7 @@ Currently, I’m a **Research Assistant at USC**, exploring how satellites can b
 
 ## 🛰️ Satellite Cybersecurity Research @ USC
 
-- 🔍 Investigating replay, DDoS, and spoofing attacks in satellite-ground communication.
+- 🔍 Investigating recon, replay, DDoS, and spoofing attacks in satellite-ground communication.
 - 🌐 Simulating orbits using **Cesium** and **TLE** data in 3D.
 - 🛡 Applying **Zero Trust Architecture** to space communication networks.
 - 🧠 Threat modeling with the **SPARTA framework** + PoC development.
@@ -75,21 +78,14 @@ Currently, I’m a **Research Assistant at USC**, exploring how satellites can b
 ## 🛠️ Tech Stack
 
 ```text
-🔐 Security Tools: Burp Suite, Metasploit, Suricata, Sentinel, OWASP ZAP, Nessus
-☁️ Cloud: AWS (GuardDuty, Security Hub, Lambda), Azure AD, OCI, GCP
+☁️ Cloud Security: AWS, Azure, OCI, Kubernetes, Terraform, DevSecOps
 🔧 IaC & DevSecOps: Terraform, GitHub Actions, SAST (Semgrep), DAST, Trivy
 📊 SIEM & Logging: Elastic Stack (ELK), Suricata IDS, Microsoft Sentinel
 💻 Languages: Python, C/C++, Bash, SQL, Java, JavaScript, PHP
-🔑 IAM & ZTA: SSO, MFA, Zero Trust Architecture, IAM Policies
 ```
 ---
 
 ## 🏆 Highlights
-☁️ Keck Medicine of USC – Deployed AWS security architecture, automated remediation, and enforced compliance across cloud.
-
-🧠 Oracle – Architected secure OCI migrations, led DevSecOps integration, and optimized multitenant IAM configurations.
-
-🛰️ USC Research – Threat-modeled ground-to-satellite attacks using ZTA and Cesium-based simulations.
 
 🛡️ WRCCDC Blue Team Lead – Defended infra under red team attack using SIEM, firewall, and IAM hardening.
 
@@ -98,13 +94,14 @@ Currently, I’m a **Research Assistant at USC**, exploring how satellites can b
 ---
 
 ## 🎯 Goals
+
 ✅ Complete OSCP by Nov 2025
 
-🌐 Join a Red Team or Cloud Security engineering role
+🌐 Join a Red Team and/or Cloud Security engineering role
 
 💻 Build open-source tools for cloud threat detection
 
-🛰️ Expand my satellite + aerospace cybersecurity research contributions
+🛰️ Expand my cybersecurity research contributions
 
 ---
 

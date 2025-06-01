@@ -44,8 +44,7 @@
     <img src="https://img.shields.io/badge/Cert-OCI_Oracle_APEX_Developer-F80000?logo=oracle&logoColor=white" />
   </a>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=764891DC17416F4AA1B73885BA4A170B2E75165B3FD7A84901F329E16F4137D1">
-    <img src="https://img.shields.io/badge/Oracle Autonomous Database Cloud 2022 Certified Professional
--F80000?logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle Autonomous Database Cloud 2022 Certified Professional-F80000?logo=oracle&logoColor=white" />
   </a>
 </p>
 

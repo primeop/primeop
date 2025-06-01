@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Kamalesh Jayapandiaraj Arumugam</h1>
+<h1 align="center">Kamalesh Jayapandiaraj Arumugam</h1>
 
 <p align="center">
   <b>Cloud Security + Offensive Engineering</b><br>
-  eJPT | OSCP Track | DevSecOps | SIEM |  MS Cybersecurity @ USC
+  eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC
 </p>
 
 <p align="center">

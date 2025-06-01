@@ -5,6 +5,10 @@
   <em>eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC</em>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer+%7C+Offensive+Security+Track;Red+Teamer+in+the+Making+%F0%9F%94%BB;Zero+Trust+%7C+DevSecOps+%7C+Satellite+Research" alt="Typing SVG" />
+</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kamalesh-jayapandiaraj-arumugam/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />

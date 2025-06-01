@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  ...
+
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=45DC37624C40AF316A77FEC82DBCB1DE5DCE427BE9EB21248352A619A9AFA12A">
     <img src="https://img.shields.io/badge/Cert-OCI_Architect_Professional-F80000?logo=oracle&logoColor=white" />
   </a>

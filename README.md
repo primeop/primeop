@@ -80,8 +80,10 @@ Outside of work, I actively participate in CTFs, adversary emulation, and exploi
 ```text
 ☁️ Cloud Security: AWS, Azure, OCI, Kubernetes, Terraform, DevSecOps
 🔧 IaC & DevSecOps: Terraform, GitHub Actions, SAST (Semgrep), DAST, Trivy
+🛡️ Pentesting: A ton of tools xD
 📊 SIEM & Logging: Elastic Stack (ELK), Suricata IDS, Microsoft Sentinel
 💻 Languages: Python, C/C++, Bash, SQL, Java, JavaScript, PHP
+
 ```
 ---
 

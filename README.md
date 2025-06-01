@@ -61,20 +61,38 @@ Currently, I’m a **Research Assistant at USC**, exploring how satellites can b
 ☁️ Cloud: AWS (GuardDuty, Security Hub, Lambda), Azure AD, OCI, GCP
 🔧 IaC & DevSecOps: Terraform, GitHub Actions, SAST (Semgrep), DAST, Trivy
 📊 SIEM & Logging: Elastic Stack (ELK), Suricata IDS, Microsoft Sentinel
-💻 Languages: Python, Bash, SQL, Java, C++, PHP
+💻 Languages: Python, C/C++, Bash, SQL, Java, JavaScript, PHP
 🔑 IAM & ZTA: SSO, MFA, Zero Trust Architecture, IAM Policies
+```
+---
 
-<!--
-**primeop/primeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Highlights
+☁️ Keck Medicine of USC – Deployed AWS security architecture, automated remediation, and enforced compliance across cloud.
 
-Here are some ideas to get you started:
+🧠 Oracle – Architected secure OCI migrations, led DevSecOps integration, and optimized multitenant IAM configurations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰️ USC Research – Threat-modeled ground-to-satellite attacks using ZTA and Cesium-based simulations.
+
+🛡️ WRCCDC Blue Team Lead – Defended infra under red team attack using SIEM, firewall, and IAM hardening.
+
+🥈 2nd Runner-Up @ USC CTF – Solved web and crypto-based real-world scenarios.
+
+---
+
+## 🎯 Goals
+✅ Complete OSCP by Nov 2025
+
+🌐 Join a Red Team or Cloud Security engineering role
+
+💻 Build open-source tools for cloud threat detection
+
+🛰️ Expand my satellite + aerospace cybersecurity research contributions
+
+---
+
+📬 Let’s Connect
+📩 Email: karumuga@usc.edu
+
+"Making the cloud safer — and the sky harder to hack."  ☁️🛰️
+
+

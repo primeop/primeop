@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cloud Security + Offensive Engineering</b><br>
-  <b>eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC</b>
+  <b>eJPT | OSCP Track | OCI (5x) | Azure (2x) | S+ | MS Cybersecurity @ USC</b>
 </p>
 
 <h3 align="center">

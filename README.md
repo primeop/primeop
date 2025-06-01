@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cloud Security + Offensive Engineering</b><br>
-  DevSecOps | VAPT | SIEM | OSCP Track | MS Cybersecurity @ USC
+  eJPT | OSCP Track | DevSecOps| SIEM |  MS Cybersecurity @ USC
 </p>
 
 <p align="center">
@@ -20,6 +20,18 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/users/prim30p-5700/credentials/da9a80ee73cf021e">
     <img src="https://img.shields.io/badge/Cert-Azure%20SC900-007FFF?logo=microsoft" />
+  </a>
+  <a href="https://certs.ine.com/19d2ba1e-e8d7-444a-85fa-94df422cc61f#acc.aCxyFhBs">
+    <img src="https://img.shields.io/badge/Cert-eJPT-red?logo=ine" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=45DC37624C40AF316A77FEC82DBCB1DE5DCE427BE9EB21248352A619A9AFA12A">
+    <img src="https://img.shields.io/badge/Cert-OCI_Architect_Professional-lightgrey?logo=oracle" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F5FDB20E27A06BA7303FD1835E4D11BA287FB08DFEB9AF15A25FCC6961539B41">
+    <img src="https://img.shields.io/badge/Cert-OCI_Foundations_Associate-lightgrey?logo=oracle" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=764891DC17416F4AA1B73885BA4A170B2E75165B3FD7A84901F329E16F4137D1">
+    <img src="https://img.shields.io/badge/Cert-Oracle_APEX_Developer-lightgrey?logo=oracle" />
   </a>
 </p>
 

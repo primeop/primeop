@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Cloud Security + Offensive Engineering</b><br>
-  <em>eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC</em>
+  <b>eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC</b>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud+Security+Engineer+%7C+Offensive+Security+Track;Red+Teamer+in+the+Making+%F0%9F%94%BB;Zero+Trust+%7C+DevSecOps+%7C+Satellite+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud+Security+Engineer+%7C+Offensive+Security+Enthusiast;Cloud+Red+Teamer+in+the+Making+%F0%9F%94%BB;SIEM+%7C+DevSecOps+%7C+Satellite+Research" alt="Typing SVG" />
 </h3>
 
 
@@ -22,9 +22,6 @@
   </a>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer+%7C+Offensive+Security+Track;Red+Teamer+in+the+Making+%F0%9F%94%BB;Zero+Trust+%7C+DevSecOps+%7C+Satellite+Research" alt="Typing SVG" />
-</h3>
  
 <p align="center">
   <a href="https://www.credly.com/badges/e85418f6-a3fc-45d6-b190-6b734804df95" style="text-decoration: none;">

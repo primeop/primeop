@@ -1,42 +1,43 @@
-<h1 align="center">Kamalesh Jayapandiaraj Arumugam</h1>
+<h1 align="center" style="color: #1E90FF;">Kamalesh Jayapandiaraj Arumugam</h1>
 
 <p align="center">
   <b>Cloud Security + Offensive Engineering</b><br>
-  eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC
+  <em>eJPT | OSCP Track | DevSecOps | SIEM | MS Cybersecurity @ USC</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamalesh-jayapandiaraj-arumugam/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kamalesh-jayapandiaraj-arumugam/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/primeop">
+  <a href="https://github.com/primeop" style="text-decoration: none;">
     <img src="https://img.shields.io/github/followers/primeop?label=GitHub&style=social" />
   </a>
-  <a href="https://github.com/primeop/kamalesh.github.io/blob/main/Kamalesh_Jayapandiaraj_Arumugam_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-orange?logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://github.com/primeop/kamalesh.github.io/blob/main/Kamalesh_Jayapandiaraj_Arumugam_Resume.pdf" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Resume-PDF-FF5722?logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/e85418f6-a3fc-45d6-b190-6b734804df95">
-    <img src="https://img.shields.io/badge/Cert-Security%2B-blueviolet?logo=compTIA" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/prim30p-5700/credentials/da9a80ee73cf021e">
-    <img src="https://img.shields.io/badge/Cert-Azure%20SC900-007FFF?logo=microsoft" />
-  </a>
-  <a href="https://certs.ine.com/19d2ba1e-e8d7-444a-85fa-94df422cc61f#acc.aCxyFhBs">
-    <img src="https://img.shields.io/badge/Cert-eJPT-red?logo=ine" />
-  </a>
-  
 </p>
 
 <p align="center">
+  <a href="https://www.credly.com/badges/e85418f6-a3fc-45d6-b190-6b734804df95" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cert-Security%2B-6A1B9A?logo=compTIA&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/prim30p-5700/credentials/da9a80ee73cf021e" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cert-Azure_SC900-0078D4?logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://certs.ine.com/19d2ba1e-e8d7-444a-85fa-94df422cc61f#acc.aCxyFhBs" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cert-eJPT-B71C1C?logo=ine&logoColor=white" />
+  </a>
+</p>
 
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=45DC37624C40AF316A77FEC82DBCB1DE5DCE427BE9EB21248352A619A9AFA12A">
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=45DC37624C40AF316A77FEC82DBCB1DE5DCE427BE9EB21248352A619A9AFA12A" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Cert-OCI_Architect_Professional-F80000?logo=oracle&logoColor=white" />
   </a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F5FDB20E27A06BA7303FD1835E4D11BA287FB08DFEB9AF15A25FCC6961539B41">
-    <img src="https://img.shields.io/badge/Cert-OCI_Oracle_APEX_Developer-F80000?logo=oracle&logoColor=white" />
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F5FDB20E27A06BA7303FD1835E4D11BA287FB08DFEB9AF15A25FCC6961539B41" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cert-Oracle_APEX_Developer-F80000?logo=oracle&logoColor=white" />
   </a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=764891DC17416F4AA1B73885BA4A170B2E75165B3FD7A84901F329E16F4137D1">
-    <img src="https://img.shields.io/badge/Cert-OCI Autonomous Database Cloud 2022 Certified Professional-F80000?logo=oracle&logoColor=white" />
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=764891DC17416F4AA1B73885BA4A170B2E75165B3FD7A84901F329E16F4137D1" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cert-Autonomous_DB_Professional-F80000?logo=oracle&logoColor=white" />
   </a>
 </p>
 

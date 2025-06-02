@@ -116,6 +116,12 @@ Outside of work, I actively participate in CTFs, adversary emulation, and exploi
   <img src="https://img.shields.io/badge/ffuf-lightgrey?style=flat" />
   <img src="https://img.shields.io/badge/dirsearch-black?style=flat" />
   <img src="https://img.shields.io/badge/feroxbuster-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-E10098?style=flat&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-B03060?style=flat" />
+  <img src="https://img.shields.io/badge/Binary%20Ninja-FF0055?style=flat" />
+  <img src="https://img.shields.io/badge/Nessus-0096D6?style=flat&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
 <p align="center">
@@ -126,23 +132,20 @@ Outside of work, I actively participate in CTFs, adversary emulation, and exploi
 </p>
 
 <p align="center">
-  <!-- Programming Languages -->
+  <!-- 👨‍💻 Programming & Scripting -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
   <!-- 🧪 Reverse Engineering & Analysis -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-E10098?style=flat&logo=snort&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-B03060?style=flat" />
-  <img src="https://img.shields.io/badge/Binary%20Ninja-FF0055?style=flat" />
-  <img src="https://img.shields.io/badge/Nessus-0096D6?style=flat&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+
 </p>
 
 ---

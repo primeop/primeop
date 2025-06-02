@@ -124,6 +124,61 @@ Outside of work, I actively participate in CTFs, adversary emulation, and exploi
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 </p>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- DevSecOps & Security -->
+  <img src="https://img.shields.io/badge/DevSecOps-black?style=flat&logo=devdotto&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAST-Semgrep-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/DAST-ZAP-ff6600?style=flat&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-Aqua-blue?style=flat&logo=aqua&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Pentesting & OffSec Tools -->
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-005F9E?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4180ff?style=flat&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-000000?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socat-grey?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Impacket-0f0f0f?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrackMapExec-3E3E3E?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloodHound-990000?style=flat&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responder-8A2BE2?style=flat&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-darkred?style=flat" />
+  <img src="https://img.shields.io/badge/Hydra-FF0000?style=flat" />
+  <img src="https://img.shields.io/badge/ffuf-lightgrey?style=flat" />
+  <img src="https://img.shields.io/badge/dirsearch-black?style=flat" />
+  <img src="https://img.shields.io/badge/feroxbuster-blue?style=flat" />
+</p>
+
+<p align="center">
+  <!-- SIEM & Logging -->
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-FF4C4C?style=flat" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+</p>
+
 ---
 
 ## 🏆 Highlights

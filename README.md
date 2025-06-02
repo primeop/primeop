@@ -52,8 +52,6 @@
 
 ## 👨‍💻 About Me
 
-Cybersecurity Graduate Student | Cloud Security + Offensive Engineering
-
 I’m currently pursuing my M.S. in Cybersecurity at the University of Southern California (USC), specializing in cloud security and offensive engineering. At Keck Medicine of USC, I serve as an Information Security Intern, where I design scalable AWS security architectures, automate incident response, and enforce multi-cloud compliance (HIPAA, HITRUST, FedRAMP).
 
 Previously, I spent 2+ years as a Cloud Engineer at Oracle, leading secure cloud migrations, DevSecOps integration, and IAM implementations for enterprise clients across JAPAC.

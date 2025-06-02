@@ -1,7 +1,6 @@
 <h1 align="center" style="color: #1E90FF;">Kamalesh Jayapandiaraj Arumugam</h1>
 
 <p align="center">
-  <b>Cloud Security + Offensive Engineering</b><br>
   <b>eJPT | OSCP Track | OCI (5x) | Azure (2x) | CompTIA S+ | MS Cybersecurity @ USC</b>
 </p>
 

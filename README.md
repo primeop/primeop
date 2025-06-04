@@ -168,7 +168,7 @@ Outside of work, I actively participate in CTFs, adversary emulation, and exploi
 
 🛡️ WRCCDC Blue Team Lead – Defended infra under red team attack using SIEM, firewall, and IAM hardening.
 
-🥈 2nd Runner-Up @ USC CTF – Solved web and crypto-based real-world scenarios.
+🥈 2nd Runner-Up @ USC CTF – Solved web, forensics, reverse engineering & crypto-based challenges.
 
 ---
 

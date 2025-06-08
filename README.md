@@ -20,7 +20,7 @@
     </a>
   </span>
   <span style="display:inline-block;margin:4px;">
-    <a href="https://github.com/primeop/kamalesh.github.io/blob/main/Kamalesh_Jayapandiaraj_Arumugam_Resume.pdf" target="_blank">
+    <a href="https://github.com/primeop/primeop/blob/main/Kamalesh_Jayapandiaraj_Arumugam_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-PDF-FF5722?logo=adobeacrobatreader&logoColor=white" />
     </a>
   </span>
